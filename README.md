@@ -18,9 +18,18 @@ Phishing para captura de senhas do Facebook
 - Endereço da maquina: ``` Tecla {ENTER} para pegar padrão neste caso ```
 - URL para clone: ``` http://www.facebook.com.br ```
 
-## Vídeo realizando o passo a passo:
-<video width="320" height="240" controls>
-  <source src="https://github.com/Keavell/Cibersecurity-Desafio-Phishing/blob/main/BootCamp%20Santander%201.mp4" type="video/mp4">
-</video>
+## Resultado esperado:
+
+![image](https://github.com/Keavell/Cibersecurity-Desafio-Phishing/assets/147361188/9a07462d-484e-4418-9924-1d2f538fc69f)
+![image](https://github.com/Keavell/Cibersecurity-Desafio-Phishing/assets/147361188/3f70feda-d08d-4a8c-ac2e-a6d48e5b2a72)
+![image](https://github.com/Keavell/Cibersecurity-Desafio-Phishing/assets/147361188/831c737a-b223-4f9b-b3d5-fad4f4e394c3)
+
+
+
+
+
+
+
+
 
 
