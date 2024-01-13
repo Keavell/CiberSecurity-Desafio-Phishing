@@ -16,4 +16,4 @@ Phishing para captura de senhas do Facebook
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque - especifico: ``` Site Cloner ```
 - Endereço da maquina: ``` Tecla {ENTER} para pegar padrão neste caso ```
-- URL para clone: ``` http://sso.acesso.gov.br ```
+- URL para clone: ``` http://www.facebook.com.br ```
